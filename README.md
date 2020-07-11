@@ -23,8 +23,6 @@ Trabalhando na CAIXA ECONÔMICA FEDERAL com Inteligência Artificial e Desenvolv
 ➔ Analista de Risco responsável pelo desenvolvimento de Modelos de Capital Econômico para Riscos de Concentração e Estratégia.
 
 
-#### Criador e gestor de conteúdos do Blog Ciência de Dados: blog.caixa/cienciadedados🚦Intranet CAIXA.
-
 
 ### FORMAÇÃO ACADÊMICA EM ESCOLAS DE PRIMEIRA LINHA:
 
@@ -91,6 +89,7 @@ Neste período foram produzidos 6 artigos acadêmicos. Foram apresentadas confer
 🌟 Apresentação de Pôster no 2nd Workshop on Probabilistic and Statistical Method. Org.: ICMC/USP e o DEs/UFSCar. Título: Modeling time to default on a personal loan portfolio in presence of disproportionate hazard rates. Ano: 2014 
 
 
-👨‍🏫 Sou consultor e professor de Ciência de Dados, Estatística e Matemática em cursos de graduação e pós graduação.
-- Sou criador e gestor de conteúdos no Blog Ciência de Dados: blog.caixa/cienciadedados🚦Intranet CAIXA.
-- Décimo quarto (14) colocado no Concurso Técnico Bancário CAIXA ECONÔMICA FEDERAL 2006/NM - Polo Franca/SP.
+### 👨‍🏫 Sou consultor e professor de Ciência de Dados, Estatística e Matemática em cursos de graduação e pós graduação.
+
+####- Sou criador e gestor de conteúdos no Blog Ciência de Dados: blog.caixa/cienciadedados🚦Intranet CAIXA.
+####- Décimo quarto (14) colocado no Concurso Técnico Bancário CAIXA ECONÔMICA FEDERAL 2006/NM - Polo Franca/SP.
