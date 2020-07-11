@@ -68,8 +68,12 @@ Consultor e Professor de Ciência de Dados, Estatística e Matemática em cursos
 🌟 1) Desenvolvimento e implementação da Modelagem de Provisão para carteiras de ativos especiais (FCVS).
 🌟 2) Validação das Modelagens Preditivas de PD, LGD e EAD para IFRS 9.
 
+##### - Sou criador e gestor de conteúdos no Blog Ciência de Dados: blog.caixa/cienciadedados🚦Intranet CAIXA.
+##### - Décimo quarto (14) colocado no Concurso Técnico Bancário CAIXA ECONÔMICA FEDERAL 2006/NM - Polo Franca/SP.
 
-##### Pesquisa Acadêmica 🎓🎓🎓
+
+
+### Pesquisa Acadêmica 🎓🎓🎓
 
 Abr de 2012 – out de 2015: 💡 Em licença para estudos especializados (LEE) para cursar doutorado em Estatística na Universidade Federal de São Carlos/Credit Research Centre - University of Edinburgh Business School. Título da Tese: Models for inflated data applied to credit risk analysis, Conceito: A, Ano de obtenção: 2016.
 
@@ -90,9 +94,6 @@ Neste período foram produzidos 6 artigos acadêmicos. Foram apresentadas confer
 
 
 ### 👨‍🏫 Sou consultor e professor de Ciência de Dados, Estatística e Matemática em cursos de graduação e pós graduação.
-
-##### - Sou criador e gestor de conteúdos no Blog Ciência de Dados: blog.caixa/cienciadedados🚦Intranet CAIXA.
-##### - Décimo quarto (14) colocado no Concurso Técnico Bancário CAIXA ECONÔMICA FEDERAL 2006/NM - Polo Franca/SP.
 
 
 ## Contato para Aulas, Consultorias e Palestras:
