@@ -1,16 +1,8 @@
 ## RESULTADO DO MEU TRABALHO 🏋️
 
-➔ Impacto na casa de centenas de milhões de reais em REDUÇÃO DE CUSTOS para a CAIXA Econômica Federal - com transporte e armazenamento de valores - com a utilização de modelos preditivos.
+➔ Impacto na casa de centenas de milhões de reais em REDUÇÃO DE CUSTOS para a Caixa Econômica Federal (CAIXA) - com transporte e armazenamento de valores - com a utilização de modelos preditivos.
 
-➔ O Relatório de Gerenciamento de Riscos e Capital da CAIXA Econômica Federal destaca a metodologia que DESENVOLVI para estimar as sobretaxas de Capital Econômico para cobrir o Risco de Concentração em poucos tomadores.
-
-
-### ATUALMENTE (2020)
-
-Trabalhando na CAIXA com Inteligência Artificial e Desenvolvimento de Projetos de Machine Learning. Busca por oportunidades alinhadas às estratégias de inovação da empresa, redução de custos e automação de processos. Projetos: ♦ Projeto web crawler para normas externas. ♦ Projeto assistente virtual cognitivo.
-
-➔ Analytics, desenvolvimento dos indicadores, dashboards das métricas de acompanhamento de consumo e do tratamento das bases de conhecimentos (Curadoria e Escola de Robôs).
-
+➔ O Relatório de Gerenciamento de Riscos e Capital da CAIXA destaca a metodologia que DESENVOLVI para estimar as sobretaxas de Capital Econômico para cobrir o Risco de Concentração em poucos tomadores.
 
 
 ## FORMAÇÃO ACADÊMICA EM ESCOLAS DE PRIMEIRA LINHA
@@ -27,7 +19,29 @@ Trabalhando na CAIXA com Inteligência Artificial e Desenvolvimento de Projetos 
 
 
 
-## HISTÓRICO MAIS RECENTE NA CAIXA ECONÔMICA FEDERAL (2018, 2019)
+## PESQUISA E PRODUÇÃO ACADÊMICA NOS TEMAS 🎓🎓🎓
+
+♦ Criação de modelos estatísticos para gestão de riscos em instituições financeiras: 
+
+➔ lifetime probability of default; loss given default; 
+
+➔ survival modelling; credit score; 
+
+➔ collection score [recuperação de crédito]; 
+
+➔ fraud modelling [fraude na concessão do crédito, pldft, detecção de anomalias]. 
+
+veja aqui ► https://bit.ly/2yGIgBF
+
+
+### ATUALMENTE (2020)
+
+Trabalhando na CAIXA com Inteligência Artificial e Desenvolvimento de Projetos de Machine Learning. Busca por oportunidades alinhadas às estratégias de inovação da empresa, redução de custos e automação de processos. Projetos: ♦ Projeto web crawler para normas externas. ♦ Projeto assistente virtual cognitivo.
+
+➔ Analytics, desenvolvimento dos indicadores, dashboards das métricas de acompanhamento de consumo e do tratamento das bases de conhecimentos (Curadoria e Escola de Robôs).
+
+
+## HISTÓRICO MAIS RECENTE NA CAIXA (2018, 2019)
 
 ➔ Cientista de Dados responsável pelo desenvolvimento de modelos de Machine Learning para a Vice-Presidência de Controles Internos e Gestão de Riscos (VICOR).
 - Aplicação de técnicas de detecção de anomalias em ambiente Big Data CAIXA com Python e Pyspark.
@@ -56,27 +70,7 @@ Trabalhando na CAIXA com Inteligência Artificial e Desenvolvimento de Projetos 
 🌟 2) Validação das Modelagens Preditivas de PD, LGD e EAD para IFRS 9.
 
 
-##### - Sou criador e gestor de conteúdos no Blog Ciência de Dados: blog.caixa/cienciadedados🚦Intranet CAIXA.
-##### - Décimo quarto (14) colocado no Concurso Técnico Bancário CAIXA ECONÔMICA FEDERAL 2006/NM - Polo Franca/SP.
-
-
-
-## PESQUISA E PRODUÇÃO ACADÊMICA NOS TEMAS 🎓🎓🎓
-
-♦ Criação de modelos estatísticos para gestão de riscos em instituições financeiras: 
-
-➔ lifetime probability of default; loss given default; 
-
-➔ survival modelling; credit score; 
-
-➔ collection score [recuperação de crédito]; 
-
-➔ fraud modelling [fraude na concessão do crédito, pldft, detecção de anomalias]. 
-
-veja aqui ► https://bit.ly/2yGIgBF
-
-
-## Licença para Estudos Especializados (LEE) 
+## Licença para Estudos Especializados (LEE, 2012 - 2015) 
 Entre abril de 2012 e outubro de 2015: 💡 Em licença para estudos especializados (LEE) para cursar doutorado em Estatística na Universidade Federal de São Carlos/Credit Research Centre - University of Edinburgh Business School. Título da Tese: Models for inflated data applied to credit risk analysis, Conceito: A, Ano de obtenção: 2016.
 
 
@@ -96,12 +90,15 @@ Neste período foram produzidos 6 artigos acadêmicos. Foram apresentadas confer
 
 
 
+##### - Sou criador e gestor de conteúdos no Blog Ciência de Dados: blog.caixa/cienciadedados🚦Intranet CAIXA.
+##### - Décimo quarto (14) colocado no Concurso Técnico Bancário CAIXA ECONÔMICA FEDERAL 2006/NM - Polo Franca/SP.
+
 
 ## ATUAÇÃO FORA DA CAIXA
-### 👨‍🏫 Sou consultor e professor de Ciência de Dados, Estatística e Matemática em cursos de graduação e pós graduação
+### 👨‍🏫 Sou consultor e professor de Ciência de Dados, Estatística e Matemática em cursos de graduação e pós-graduação
 
 
-## Contato para Aulas, Consultorias e Palestras
+# Contato para Aulas, Consultorias e Palestras
 
 📱 +55 (61) 9 8285-1642
 
