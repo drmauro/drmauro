@@ -52,6 +52,7 @@ Trabalhando na CAIXA ECONÔMICA FEDERAL com Inteligência Artificial e Desenvolv
 ##### ✔Integrante da equipe de Gestão de Risco de Carteira de Crédito e Provisão, de novembro de 2015 até agosto de 2018, com destaque das entregas:
 
 🌟 1) Desenvolvimento e implementação da Modelagem de Provisão para carteiras de ativos especiais (FCVS).
+
 🌟 2) Validação das Modelagens Preditivas de PD, LGD e EAD para IFRS 9.
 
 
