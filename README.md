@@ -38,7 +38,7 @@ Trabalhando na CAIXA ECONÔMICA FEDERAL com Inteligência Artificial e Desenvolv
 ➔ Analista de Risco responsável pelo desenvolvimento de Modelos de Capital Econômico para Riscos de Concentração e Estratégia.
 
 
-## ATUAÇÃO NA CAIXA (2016, 2017)
+## ATUAÇÃO NA CAIXA (2015, 2016, 2017)
 
 ##### ✔Integrante da equipe de Gestão de Riscos Especializados - GERIE, desde setembro de 2018 até junho do 2019, com destaque das entregas:
 
@@ -79,7 +79,7 @@ veja aqui ► https://bit.ly/2yGIgBF
 
 
 ## Licença para Estudos Especializados (LEE) 
-Entre Abr de 2012 e out de 2015: 💡 Em licença para estudos especializados (LEE) para cursar doutorado em Estatística na Universidade Federal de São Carlos/Credit Research Centre - University of Edinburgh Business School. Título da Tese: Models for inflated data applied to credit risk analysis, Conceito: A, Ano de obtenção: 2016.
+Entre abril de 2012 e outubro de 2015: 💡 Em licença para estudos especializados (LEE) para cursar doutorado em Estatística na Universidade Federal de São Carlos/Credit Research Centre - University of Edinburgh Business School. Título da Tese: Models for inflated data applied to credit risk analysis, Conceito: A, Ano de obtenção: 2016.
 
 
 Neste período foram produzidos 6 artigos acadêmicos. Foram apresentadas conferências orais em 3 congressos (sendo um internacional). Foram apresentados pôsteres em 3 congressos nacionais.
