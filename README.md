@@ -95,7 +95,7 @@ Neste período foram produzidos 6 artigos acadêmicos. Foram apresentadas confer
 ##### - Décimo quarto (14) colocado no Concurso Técnico Bancário CAIXA ECONÔMICA FEDERAL 2006/NM - Polo Franca/SP.
 
 
-## Contato para Aulas, Consultorias e Palestras: +
+## Contato para Aulas, Consultorias e Palestras:
 
 📱 +55 (61) 9 8285-1642
 
