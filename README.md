@@ -2,13 +2,15 @@
 
 ➔ Impacto na casa de centenas de milhões de reais em REDUÇÃO DE CUSTOS para a Caixa Econômica Federal - com transporte e armazenamento de valores - com a utilização de modelos preditivos.
 
-➔ Desde o 4T2018, o Relatório de Gerenciamento de Riscos e Capital da Caixa Econômica Federal destaca a metodologia que DESENVOLVI para estimar as sobretaxas de Capital Econômico para cobrir o Risco de Concentração em poucos tomadores.
+➔ O Relatório de Gerenciamento de Riscos e Capital da Caixa Econômica Federal destaca a metodologia que DESENVOLVI para estimar as sobretaxas de Capital Econômico para cobrir o Risco de Concentração em poucos tomadores.
+
 
 ### ATUALMENTE:
 
 Trabalhando na CAIXA ECONÔMICA FEDERAL com Inteligência Artificial e Desenvolvimento de Projetos de Machine Learning. Busca por oportunidades alinhadas às estratégias de inovação da empresa, redução de custos e automação de processos. Projetos: ♦ Projeto web crawler para normas externas. ♦ Projeto assistente virtual cognitivo.
 
 ➔ Analytics, desenvolvimento dos indicadores, dashboards das métricas de acompanhamento de consumo e do tratamento das bases de conhecimentos (Curadoria e Escola de Robôs).
+
 
 ### HISTÓRICO MAIS RECENTE NA CAIXA ECONÔMICA FEDERAL:
 
@@ -20,7 +22,9 @@ Trabalhando na CAIXA ECONÔMICA FEDERAL com Inteligência Artificial e Desenvolv
 
 ➔ Analista de Risco responsável pelo desenvolvimento de Modelos de Capital Econômico para Riscos de Concentração e Estratégia.
 
+
 #### Criador e gestor de conteúdos do Blog Ciência de Dados: blog.caixa/cienciadedados🚦Intranet CAIXA.
+
 
 ### FORMAÇÃO ACADÊMICA EM ESCOLAS DE PRIMEIRA LINHA:
 
@@ -45,8 +49,10 @@ Trabalhando na CAIXA ECONÔMICA FEDERAL com Inteligência Artificial e Desenvolv
 ➔ fraud modelling [fraude na concessão do crédito, pldft, detecção de anomalias]. 
 veja aqui ► https://bit.ly/2yGIgBF
 
+
 ### ATUAÇÃO FORA DA CAIXA:
 Consultor e Professor de Ciência de Dados, Estatística e Matemática em cursos de graduação e pós graduação.
+
 
 ### +ATUAÇÃO NA CAIXA:
 
@@ -58,6 +64,7 @@ Consultor e Professor de Ciência de Dados, Estatística e Matemática em cursos
 
 🌟 3) Desenvolvimento da Modelagem de Capital Econômico para o Risco de Estrategia da CAIXA. (Seção III / Riscos relevantes da Carta Circular n° 3.907/2018).
 
+
 ##### ✔Integrante da equipe de Gestão de Risco de Carteira de Crédito e Provisão, de novembro de 2015 até agosto de 2018, com destaque das entregas:
 
 🌟 1) Desenvolvimento e implementação da Modelagem de Provisão para carteiras de ativos especiais (FCVS).
@@ -67,6 +74,7 @@ Consultor e Professor de Ciência de Dados, Estatística e Matemática em cursos
 ##### Pesquisa Acadêmica 🎓🎓🎓
 
 Abr de 2012 – out de 2015: 💡 Em licença para estudos especializados (LEE) para cursar doutorado em Estatística na Universidade Federal de São Carlos/Credit Research Centre - University of Edinburgh Business School. Título da Tese: Models for inflated data applied to credit risk analysis, Conceito: A, Ano de obtenção: 2016.
+
 
 Neste período foram produzidos 6 artigos acadêmicos. Foram apresentadas conferências orais em 3 congressos (sendo um internacional). Foram apresentados pôsteres em 3 congressos nacionais.
 
@@ -81,6 +89,7 @@ Neste período foram produzidos 6 artigos acadêmicos. Foram apresentadas confer
 🌟 Apresentação de Pôster no 21º SINAPE - Simpósio Nacional de Probabilidade e Estatística. Org.: ABE. Título: An evidence of link between default and loss of bank loans from the modeling of competing risks. 2014
 
 🌟 Apresentação de Pôster no 2nd Workshop on Probabilistic and Statistical Method. Org.: ICMC/USP e o DEs/UFSCar. Título: Modeling time to default on a personal loan portfolio in presence of disproportionate hazard rates. Ano: 2014 
+
 
 👨‍🏫 Sou consultor e professor de Ciência de Dados, Estatística e Matemática em cursos de graduação e pós graduação.
 - Sou criador e gestor de conteúdos no Blog Ciência de Dados: blog.caixa/cienciadedados🚦Intranet CAIXA.
