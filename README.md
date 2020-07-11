@@ -5,7 +5,7 @@
 ➔ O Relatório de Gerenciamento de Riscos e Capital da Caixa Econômica Federal destaca a metodologia que DESENVOLVI para estimar as sobretaxas de Capital Econômico para cobrir o Risco de Concentração em poucos tomadores.
 
 
-### ATUALMENTE
+### ATUALMENTE (2020)
 
 Trabalhando na CAIXA ECONÔMICA FEDERAL com Inteligência Artificial e Desenvolvimento de Projetos de Machine Learning. Busca por oportunidades alinhadas às estratégias de inovação da empresa, redução de custos e automação de processos. Projetos: ♦ Projeto web crawler para normas externas. ♦ Projeto assistente virtual cognitivo.
 
@@ -27,7 +27,7 @@ Trabalhando na CAIXA ECONÔMICA FEDERAL com Inteligência Artificial e Desenvolv
 
 
 
-## HISTÓRICO MAIS RECENTE NA CAIXA ECONÔMICA FEDERAL
+## HISTÓRICO MAIS RECENTE NA CAIXA ECONÔMICA FEDERAL (2018, 2019)
 
 ➔ Cientista de Dados responsável pelo desenvolvimento de modelos de Machine Learning para a Vice-Presidência de Controles Internos e Gestão de Riscos (VICOR).
 - Aplicação de técnicas de detecção de anomalias em ambiente Big Data CAIXA com Python e Pyspark.
@@ -38,7 +38,7 @@ Trabalhando na CAIXA ECONÔMICA FEDERAL com Inteligência Artificial e Desenvolv
 ➔ Analista de Risco responsável pelo desenvolvimento de Modelos de Capital Econômico para Riscos de Concentração e Estratégia.
 
 
-## ATUAÇÃO NA CAIXA (histórico últimos 5 anos)
+## ATUAÇÃO NA CAIXA (2016, 2017)
 
 ##### ✔Integrante da equipe de Gestão de Riscos Especializados - GERIE, desde setembro de 2018 até junho do 2019, com destaque das entregas:
 
