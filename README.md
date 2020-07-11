@@ -1,13 +1,13 @@
 ## RESULTADO DO MEU TRABALHO 🏋️
 
-➔ Impacto na casa de centenas de milhões de reais em REDUÇÃO DE CUSTOS para a Caixa Econômica Federal - com transporte e armazenamento de valores - com a utilização de modelos preditivos.
+➔ Impacto na casa de centenas de milhões de reais em REDUÇÃO DE CUSTOS para a CAIXA Econômica Federal - com transporte e armazenamento de valores - com a utilização de modelos preditivos.
 
-➔ O Relatório de Gerenciamento de Riscos e Capital da Caixa Econômica Federal destaca a metodologia que DESENVOLVI para estimar as sobretaxas de Capital Econômico para cobrir o Risco de Concentração em poucos tomadores.
+➔ O Relatório de Gerenciamento de Riscos e Capital da CAIXA Econômica Federal destaca a metodologia que DESENVOLVI para estimar as sobretaxas de Capital Econômico para cobrir o Risco de Concentração em poucos tomadores.
 
 
 ### ATUALMENTE (2020)
 
-Trabalhando na CAIXA ECONÔMICA FEDERAL com Inteligência Artificial e Desenvolvimento de Projetos de Machine Learning. Busca por oportunidades alinhadas às estratégias de inovação da empresa, redução de custos e automação de processos. Projetos: ♦ Projeto web crawler para normas externas. ♦ Projeto assistente virtual cognitivo.
+Trabalhando na CAIXA com Inteligência Artificial e Desenvolvimento de Projetos de Machine Learning. Busca por oportunidades alinhadas às estratégias de inovação da empresa, redução de custos e automação de processos. Projetos: ♦ Projeto web crawler para normas externas. ♦ Projeto assistente virtual cognitivo.
 
 ➔ Analytics, desenvolvimento dos indicadores, dashboards das métricas de acompanhamento de consumo e do tratamento das bases de conhecimentos (Curadoria e Escola de Robôs).
 
@@ -61,9 +61,7 @@ Trabalhando na CAIXA ECONÔMICA FEDERAL com Inteligência Artificial e Desenvolv
 
 
 
-## Pesquisa Acadêmica 🎓🎓🎓
-
-### PESQUISA E PRODUÇÃO ACADÊMICA NOS TEMAS
+## PESQUISA E PRODUÇÃO ACADÊMICA NOS TEMAS 🎓🎓🎓
 
 ♦ Criação de modelos estatísticos para gestão de riscos em instituições financeiras: 
 
