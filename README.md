@@ -12,6 +12,7 @@ Trabalhando na CAIXA ECONÔMICA FEDERAL com Inteligência Artificial e Desenvolv
 ➔ Analytics, desenvolvimento dos indicadores, dashboards das métricas de acompanhamento de consumo e do tratamento das bases de conhecimentos (Curadoria e Escola de Robôs).
 
 
+
 ## FORMAÇÃO ACADÊMICA EM ESCOLAS DE PRIMEIRA LINHA:
 
 🎓 Especialização em EduTec – UFSCar, 2021;
@@ -26,7 +27,7 @@ Trabalhando na CAIXA ECONÔMICA FEDERAL com Inteligência Artificial e Desenvolv
 
 
 
-### HISTÓRICO MAIS RECENTE NA CAIXA ECONÔMICA FEDERAL:
+## HISTÓRICO MAIS RECENTE NA CAIXA ECONÔMICA FEDERAL:
 
 ➔ Cientista de Dados responsável pelo desenvolvimento de modelos de Machine Learning para a Vice-Presidência de Controles Internos e Gestão de Riscos (VICOR).
 - Aplicação de técnicas de detecção de anomalias em ambiente Big Data CAIXA com Python e Pyspark.
@@ -37,12 +38,7 @@ Trabalhando na CAIXA ECONÔMICA FEDERAL com Inteligência Artificial e Desenvolv
 ➔ Analista de Risco responsável pelo desenvolvimento de Modelos de Capital Econômico para Riscos de Concentração e Estratégia.
 
 
-
-### ATUAÇÃO FORA DA CAIXA:
-Consultor e Professor de Ciência de Dados, Estatística e Matemática em cursos de graduação e pós graduação.
-
-
-### ATUAÇÃO NA CAIXA (histórico últimos 5 anos):
+## ATUAÇÃO NA CAIXA (histórico últimos 5 anos):
 
 ##### ✔Integrante da equipe de Gestão de Riscos Especializados - GERIE, desde setembro de 2018 até junho do 2019, com destaque das entregas:
 
@@ -81,6 +77,7 @@ Consultor e Professor de Ciência de Dados, Estatística e Matemática em cursos
 veja aqui ► https://bit.ly/2yGIgBF
 
 
+## Licença para Estudos Especializados (LEE) 
 Entre Abr de 2012 e out de 2015: 💡 Em licença para estudos especializados (LEE) para cursar doutorado em Estatística na Universidade Federal de São Carlos/Credit Research Centre - University of Edinburgh Business School. Título da Tese: Models for inflated data applied to credit risk analysis, Conceito: A, Ano de obtenção: 2016.
 
 
@@ -100,6 +97,8 @@ Neste período foram produzidos 6 artigos acadêmicos. Foram apresentadas confer
 
 
 
+
+## ATUAÇÃO FORA DA CAIXA:
 ### 👨‍🏫 Sou consultor e professor de Ciência de Dados, Estatística e Matemática em cursos de graduação e pós graduação.
 
 
