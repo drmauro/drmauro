@@ -1,4 +1,4 @@
-### RESULTADO DO MEU TRABALHO: 👋 
+## RESULTADO DO MEU TRABALHO: 🏋️
 
 ➔ Impacto na casa de centenas de milhões de reais em REDUÇÃO DE CUSTOS para a Caixa Econômica Federal - com transporte e armazenamento de valores - com a utilização de modelos preditivos.
 
@@ -10,6 +10,20 @@
 Trabalhando na CAIXA ECONÔMICA FEDERAL com Inteligência Artificial e Desenvolvimento de Projetos de Machine Learning. Busca por oportunidades alinhadas às estratégias de inovação da empresa, redução de custos e automação de processos. Projetos: ♦ Projeto web crawler para normas externas. ♦ Projeto assistente virtual cognitivo.
 
 ➔ Analytics, desenvolvimento dos indicadores, dashboards das métricas de acompanhamento de consumo e do tratamento das bases de conhecimentos (Curadoria e Escola de Robôs).
+
+
+## FORMAÇÃO ACADÊMICA EM ESCOLAS DE PRIMEIRA LINHA:
+
+🎓 Especialização em EduTec – UFSCar, 2021;
+
+🎓 Doutor em Estatística – UFSCar, 2016;
+
+🎓 MBA em Gestão de Riscos – FIPECAFI, 2011;
+
+🎓 Mestre em Matemática – UNICAMP, 2006;
+
+🎓 Bacharel em Matemática – UFSCar, 2003.
+
 
 
 ### HISTÓRICO MAIS RECENTE NA CAIXA ECONÔMICA FEDERAL:
@@ -24,35 +38,11 @@ Trabalhando na CAIXA ECONÔMICA FEDERAL com Inteligência Artificial e Desenvolv
 
 
 
-### FORMAÇÃO ACADÊMICA EM ESCOLAS DE PRIMEIRA LINHA:
-
-🎓 Especialização em EduTec – UFSCar, 2021;
-
-🎓 Doutor em Estatística – UFSCar, 2016;
-
-🎓 MBA em Gestão de Riscos – FIPECAFI, 2011;
-
-🎓 Mestre em Matemática – UNICAMP, 2006;
-
-🎓 Bacharel em Matemática – UFSCar, 2003.
-
-
-### PESQUISA E PRODUÇÃO ACADÊMICA NOS TEMAS:
-
-♦ Criação de modelos estatísticos para gestão de riscos em instituições financeiras: 
-
-➔ lifetime probability of default; loss given default; 
-➔ survival modelling; credit score; 
-➔ collection score [recuperação de crédito]; 
-➔ fraud modelling [fraude na concessão do crédito, pldft, detecção de anomalias]. 
-veja aqui ► https://bit.ly/2yGIgBF
-
-
 ### ATUAÇÃO FORA DA CAIXA:
 Consultor e Professor de Ciência de Dados, Estatística e Matemática em cursos de graduação e pós graduação.
 
 
-### +ATUAÇÃO NA CAIXA:
+### ATUAÇÃO NA CAIXA (histórico últimos 5 anos):
 
 ##### ✔Integrante da equipe de Gestão de Riscos Especializados - GERIE, desde setembro de 2018 até junho do 2019, com destaque das entregas:
 
@@ -68,14 +58,30 @@ Consultor e Professor de Ciência de Dados, Estatística e Matemática em cursos
 🌟 1) Desenvolvimento e implementação da Modelagem de Provisão para carteiras de ativos especiais (FCVS).
 🌟 2) Validação das Modelagens Preditivas de PD, LGD e EAD para IFRS 9.
 
+
 ##### - Sou criador e gestor de conteúdos no Blog Ciência de Dados: blog.caixa/cienciadedados🚦Intranet CAIXA.
 ##### - Décimo quarto (14) colocado no Concurso Técnico Bancário CAIXA ECONÔMICA FEDERAL 2006/NM - Polo Franca/SP.
 
 
 
-### Pesquisa Acadêmica 🎓🎓🎓
+## Pesquisa Acadêmica 🎓🎓🎓
 
-Abr de 2012 – out de 2015: 💡 Em licença para estudos especializados (LEE) para cursar doutorado em Estatística na Universidade Federal de São Carlos/Credit Research Centre - University of Edinburgh Business School. Título da Tese: Models for inflated data applied to credit risk analysis, Conceito: A, Ano de obtenção: 2016.
+### PESQUISA E PRODUÇÃO ACADÊMICA NOS TEMAS:
+
+♦ Criação de modelos estatísticos para gestão de riscos em instituições financeiras: 
+
+➔ lifetime probability of default; loss given default; 
+
+➔ survival modelling; credit score; 
+
+➔ collection score [recuperação de crédito]; 
+
+➔ fraud modelling [fraude na concessão do crédito, pldft, detecção de anomalias]. 
+
+veja aqui ► https://bit.ly/2yGIgBF
+
+
+Entre Abr de 2012 e out de 2015: 💡 Em licença para estudos especializados (LEE) para cursar doutorado em Estatística na Universidade Federal de São Carlos/Credit Research Centre - University of Edinburgh Business School. Título da Tese: Models for inflated data applied to credit risk analysis, Conceito: A, Ano de obtenção: 2016.
 
 
 Neste período foram produzidos 6 artigos acadêmicos. Foram apresentadas conferências orais em 3 congressos (sendo um internacional). Foram apresentados pôsteres em 3 congressos nacionais.
@@ -91,6 +97,7 @@ Neste período foram produzidos 6 artigos acadêmicos. Foram apresentadas confer
 🌟 Apresentação de Pôster no 21º SINAPE - Simpósio Nacional de Probabilidade e Estatística. Org.: ABE. Título: An evidence of link between default and loss of bank loans from the modeling of competing risks. 2014
 
 🌟 Apresentação de Pôster no 2nd Workshop on Probabilistic and Statistical Method. Org.: ICMC/USP e o DEs/UFSCar. Título: Modeling time to default on a personal loan portfolio in presence of disproportionate hazard rates. Ano: 2014 
+
 
 
 ### 👨‍🏫 Sou consultor e professor de Ciência de Dados, Estatística e Matemática em cursos de graduação e pós graduação.
