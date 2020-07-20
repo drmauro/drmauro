@@ -2,7 +2,7 @@
 
 ➔ Impacto na casa de centenas de milhões de reais em REDUÇÃO DE CUSTOS com transporte e armazenamento de valores (encaixe) para a Caixa Econômica Federal (CAIXA) com a utilização de modelos preditivos que EU DESENVOLVI.
 
-➔ O Relatório de Gerenciamento de Riscos e Capital da CAIXA destaca a metodologia que DESENVOLVI para estimar as sobretaxas de Capital Econômico para cobrir o Risco de Concentração em poucos tomadores.
+➔ O Relatório de Gerenciamento de Riscos e Capital da CAIXA destaca a metodologia que EU DESENVOLVI para estimar as sobretaxas de Capital Econômico para cobrir o Risco de Concentração em poucos tomadores.
 
 
 ## FORMAÇÃO ACADÊMICA EM ESCOLAS DE PRIMEIRA LINHA
