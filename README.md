@@ -1,6 +1,6 @@
 ## RESULTADO DO MEU TRABALHO 🏋️
 
-➔ Impacto na casa de centenas de milhões de reais em REDUÇÃO DE CUSTOS para a Caixa Econômica Federal (CAIXA) - com transporte e armazenamento de valores - com a utilização de modelos preditivos.
+➔ Impacto na casa de centenas de milhões de reais em REDUÇÃO DE CUSTOS com transporte e armazenamento (encaixe) de valores para a Caixa Econômica Federal (CAIXA) com a utilização de modelos preditivos.
 
 ➔ O Relatório de Gerenciamento de Riscos e Capital da CAIXA destaca a metodologia que DESENVOLVI para estimar as sobretaxas de Capital Econômico para cobrir o Risco de Concentração em poucos tomadores.
 
