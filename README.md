@@ -1,13 +1,12 @@
 # RESULTADO DO MEU TRABALHO 🏋️
 
-➔ Impacto na casa de centenas de milhões de reais em REDUÇÃO DE CUSTOS com transporte e armazenamento de valores (encaixe) para a Caixa Econômica Federal (CAIXA) com a utilização de modelos preditivos que EU DESENVOLVI.
+➔ Impacto na casa de centenas de milhões de reais em REDUÇÃO DE CUSTOS com transporte e armazenamento de valores (encaixe) para a Caixa Econômica Federal (CAIXA) com a utilização de modelos preditivos.
 
-➔ O Relatório de Gerenciamento de Riscos e Capital da CAIXA destaca a metodologia que EU DESENVOLVI para estimar as sobretaxas de Capital Econômico para cobrir o Risco de Concentração em poucos tomadores.
+➔ O Relatório de Gerenciamento de Riscos e Capital da CAIXA destaca a metodologia que desenvolvi para estimar as sobretaxas de Capital Econômico para cobrir o Risco de Concentração em poucos tomadores.
 
 
 ## FORMAÇÃO ACADÊMICA EM ESCOLAS DE PRIMEIRA LINHA
 
-🎓 Especialização em EduTec – UFSCar, 2021;
 
 🎓 Doutor em Estatística – UFSCar, 2016;
 
@@ -34,7 +33,7 @@
 veja aqui ► https://bit.ly/2yGIgBF
 
 
-### ATUALMENTE (2020)
+### ATUALMENTE (2020-2021)
 
 Trabalhando na CAIXA com Inteligência Artificial e Desenvolvimento de Projetos de Machine Learning. Busca por oportunidades alinhadas às estratégias de inovação da empresa, redução de custos e automação de processos. Projetos: ♦ Projeto web crawler para normas externas. ♦ Projeto assistente virtual cognitivo.
 
